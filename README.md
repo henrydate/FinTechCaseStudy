@@ -23,13 +23,13 @@ the tradtional banking services
 - Whilst using Apple Pay in compatible stores, Apple Pay uses Near Field Communication (NFC) technology between your device and the payment terminal
 
 
-# Strengths:
+### Strengths:
 
 - Apple's customer base is bigger than others as all Iphone users are potential users
 - Apple already has talent pool for new App R&D
 - Apple has a lower cost structure than other competitor
 
-# Weaknesses:
+### Weaknesses:
 
 - Public WIFI beings security issue
 - Apple collects personal data
