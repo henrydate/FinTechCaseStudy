@@ -4,7 +4,7 @@
 
 ## Description:
 
-This is a case study for Apple's Apply Pay
+This is a case study for Apple's Apple Pay
 
 ## Contributors:
 
@@ -13,8 +13,6 @@ This is a case study for Apple's Apply Pay
 - Danni (Ling Dong)
 
 ### FinTech Case Study: Apple Pay
-
-Apple Pay
 
 Apple Pay is a cardless payment method and competitors are 
 Traditional Bank 
