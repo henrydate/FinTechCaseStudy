@@ -12,4 +12,4 @@ This is a case study for Apple's Apply Pay
 - Ilia Parkhomenko
 - Danni (Ling Dong)
 
-### FinTech Case Study: Apply Pay
+### FinTech Case Study: Apple Pay
