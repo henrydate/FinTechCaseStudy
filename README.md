@@ -33,3 +33,12 @@ the tradtional banking services
 
 - Public WIFI beings security issue
 - Apple collects personal data
+
+### Apple Company Information:
+
+- Apple was established on the 1st April 1987
+- They initially had computers that specialized in drawing and design
+- They also revelutionised the phone, changing the world's life style through communication and collaboration
+- It also incorporated applications that allowed a different platform for developers
+
+
