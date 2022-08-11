@@ -15,17 +15,21 @@ This is a case study for Apple's Apple Pay
 ### FinTech Case Study: Apple Pay
 
 - Apple Pay is a cardless payment method and competitors are 
-Traditional Bank 
-Other online payment provide 
+the tradtional banking services 
+- Other online payment providers (Neobanks) 
 
-- 2014 when Apple CEO Tim cook introduce iphone 6 ,he also mentioned Apple pay which is new feature to Apple product
+- In 2014 Apple CEO Tim cook introduced the iphone 6. In this introduction he also mentioned Apple pay was included as its new feature within the Apple products
 
-- When you use Apple Pay in stores that accept contactless payments, Apple Pay uses Near Field Communication (NFC) technology between your device and the payment terminal.strengths and weaknesses
+- Whilst using Apple Pay in compatible stores, Apple Pay uses Near Field Communication (NFC) technology between your device and the payment terminal
 
-strengths and weaknesses:
 
-- Customer Base bigger than others as all Iphone users are potential users
-- Apple already have talent pool for new App R&D ,less cost than competitor
+# Strengths:
+
+- Apple's customer base is bigger than others as all Iphone users are potential users
+- Apple already has talent pool for new App R&D
+- Apple has a lower cost structure than other competitor
+
+# Weaknesses:
 
 - Public WIFI beings security issue
 - Apple collects personal data
